@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3803ca2d.css",
-    "main.js": "/static/js/main.41cd06ba.js",
+    "main.js": "/static/js/main.c622679a.js",
     "static/js/27.53288251.chunk.js": "/static/js/27.53288251.chunk.js",
     "static/media/background.png": "/static/media/background.91b311946aac03bc41ce.png",
     "static/media/pvp-background.png": "/static/media/pvp-background.5f75197967de507924e6.png",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.3803ca2d.css",
-    "static/js/main.41cd06ba.js"
+    "static/js/main.c622679a.js"
   ]
 }
