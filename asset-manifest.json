@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3803ca2d.css",
+    "main.js": "/static/js/main.41cd06ba.js",
+    "static/js/27.53288251.chunk.js": "/static/js/27.53288251.chunk.js",
+    "static/media/background.png": "/static/media/background.91b311946aac03bc41ce.png",
+    "static/media/pvp-background.png": "/static/media/pvp-background.5f75197967de507924e6.png",
+    "static/media/KumbhSans.ttf": "/static/media/KumbhSans.fc2b5060f7accec5cf74.ttf",
+    "static/media/login_mask.jpg": "/static/media/login_mask.e01a288e135a4f310750.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3803ca2d.css",
+    "static/js/main.41cd06ba.js"
+  ]
+}
